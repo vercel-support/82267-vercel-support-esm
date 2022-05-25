@@ -19,5 +19,5 @@ Then deploy the build output on Vercel.
 It will results in an error that looks like...
 
 ```console
-
+Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension
 ```
