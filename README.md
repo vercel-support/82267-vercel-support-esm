@@ -24,7 +24,7 @@ Warning: To load an ES module, set "type": "module" in the package.json or use t
 
 Even when adding `"type": "module"` in `package.json` and deploy, it doesn't change anything.
 
-Deployment: <https://vercel-support-kkj37w5uc-milescode.vercel.app/>
+Deployment: <https://vercel-support-esm.vercel.app/>
 
 ## Log
 
